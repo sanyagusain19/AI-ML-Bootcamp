@@ -1,8 +1,8 @@
-# 🔌 API Integration Projects
+#  API Integration Projects
 
 A collection of Python projects demonstrating how to integrate and consume various public APIs. This folder showcases practical examples of fetching, processing, and manipulating data from different sources.
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Projects Overview](#projects-overview)
 - [Installation](#installation)
@@ -10,7 +10,7 @@ A collection of Python projects demonstrating how to integrate and consume vario
 - [Usage Examples](#usage-examples)
 - [API References](#api-references)
 
-## 🎯 Projects Overview
+##  Projects Overview
 
 | Project | API | Purpose | Status |
 |---------|-----|---------|--------|
@@ -21,7 +21,7 @@ A collection of Python projects demonstrating how to integrate and consume vario
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.7+
@@ -40,7 +40,7 @@ pip install requests
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 1. **Plants** 🌿 (`plants.py`)
 
@@ -106,7 +106,7 @@ if pikachu:
 
 ---
 
-### 3. **Products** 🛍️ (`product.py`)
+### 3. **Products**  (`product.py`)
 
 Browse and fetch e-commerce products with ratings and reviews from the Fake Store API.
 
@@ -167,7 +167,7 @@ if weather_data:
 
 ---
 
-## 📚 Usage Examples
+##  Usage Examples
 
 ### Complete Example: Multi-API Integration
 
@@ -246,7 +246,7 @@ else:
 
 ---
 
-## 📝 Tips & Best Practices
+##  Tips & Best Practices
 
 - **Rate Limiting**: Respect API rate limits; add delays between requests if needed
 - **Error Handling**: Always check the `success` flag before processing data
@@ -256,13 +256,13 @@ else:
 
 ---
 
-## 📄 License
+##  License
 
 This project is part of the AI-ML Bootcamp educational initiative.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to add more API integrations! Follow the established pattern:
 
@@ -273,20 +273,9 @@ Feel free to add more API integrations! Follow the established pattern:
 
 ---
 
-## ❓ FAQ
 
-**Q: Do I need API keys for all projects?**  
-A: No. PokéAPI and Fake Store API are free without authentication. Plants and Weather require keys.
 
-**Q: How do I get an API key?**  
-A: Visit each API's official website and sign up for a free tier account.
-
-**Q: Can I use these in production?**  
-A: Some APIs (like Fake Store) are for testing only. Check API terms of service.
-
----
-
-## 📞 Support
+##  Support
 
 For issues or questions:
 - Check API documentation
